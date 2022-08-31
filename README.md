@@ -1,6 +1,6 @@
 ### Here is What I'm Working On 👋
 
-<img src="https://wallpapercave.com/wp/wp8903890.jpg" />
+<img src="https://www.freecoursesites.us/wp-content/uploads/2021/05/MERN-Stack-Development-with-React-Redux-Node-2021-1.jpg" />
 
 Here are some ideas to get you started:
 
