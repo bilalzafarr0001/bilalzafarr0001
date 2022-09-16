@@ -1,5 +1,5 @@
 
-![MasterHead](https://cdn.dribbble.com/users/2676018/screenshots/12285920/dribble-office.gif)
+![MasterHead](https://cdn.dribbble.com/users/4781516/screenshots/10796279/media/04eb24250e23400dc0162080a231b70c.gif)
 
 <h1 align="center">Hi 👋, I'm Bilal Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
