@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I'm half finish**
 
+- 💬 Ask me about  **React , Typescript , MERN , and different testing libraries like Cypress , RTL , and Jest , Mocha**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bilalza59031431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bilalza59031431" height="30" width="40" /></a>
