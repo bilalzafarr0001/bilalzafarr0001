@@ -3,11 +3,14 @@
 
 <h1 align="center">Hi 👋, I'm Bilal Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<image align="right" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
+<br> <br/>
+<image align="right" width="300" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalzafarr0001&label=Profile%20views&color=0e75b6&style=flat" alt="bilalzafarr0001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalzafarr0001" alt="bilalzafarr0001" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/bilalza59031431" target="blank"><img src="https://img.shields.io/twitter/follow/bilalza59031431?logo=twitter&style=for-the-badge" alt="bilalza59031431" /></a> </p>
 
