@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bilal Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <br> <br/>
-<image align="right" width="300" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
+<image align="right" width="200" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalzafarr0001&label=Profile%20views&color=0e75b6&style=flat" alt="bilalzafarr0001" /> </p>
