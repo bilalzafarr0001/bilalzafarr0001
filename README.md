@@ -2,7 +2,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif)
 
 <h1 align="center">Hi 👋, I'm Bilal Zafar</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
  
   
 
