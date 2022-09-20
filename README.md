@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/max/1400/1*KN7zbaWkbm5E71zZWfTf7A.gif)
+![MasterHead](https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif)
 
 <h1 align="center">Hi 👋, I'm Bilal Zafar</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
