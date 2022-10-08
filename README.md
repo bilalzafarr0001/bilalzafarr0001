@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bilalzafarr39@gmail.com**
 
-- ⚡ Fun fact ** Ask me anything I will tell you the most amazing answer about that that uou did not listen !**
+- ⚡ Fun fact ** Ask me anything I will tell you the most amazing answer that did not listen before !**
 
 - 💬 Ask me about  **React , Typescript , MERN , and different testing libraries like Cypress , RTL , and Jest , Mocha**
 
