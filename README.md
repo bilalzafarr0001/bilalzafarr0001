@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/bilalza59031431" target="blank"><img src="https://img.shields.io/twitter/follow/bilalza59031431?logo=twitter&style=for-the-badge" alt="bilalza59031431" /></a> </p>
 
-- 🔭 I’m currently working on **React Testing libraries and Microservices**
+- 🔭 I’m currently working on **React Testing libraries , Microservices ,and Docker Orchestration tools like Kubernetes **
 
 - 📫 How to reach me **bilalzafarr39@gmail.com**
 
-- ⚡ Fun fact **I'm half finish**
+- ⚡ Fun fact ** Ask me anything I will tell you the most amazing answer about that that uou did not listen !**
 
 - 💬 Ask me about  **React , Typescript , MERN , and different testing libraries like Cypress , RTL , and Jest , Mocha**
 
